@@ -97,8 +97,3 @@ search_project/
 - Report issues or suggest features via the repository's issue tracker.
 - Submit pull requests with clear descriptions of changes.
 
-## License
-MIT License. See `LICENSE` for details.
-
-## Screenshots
-Refer to the repository's `/docs` folder or issue tracker for UI screenshots and demo visuals.
